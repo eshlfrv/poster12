@@ -1,0 +1,475 @@
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+    /* iPad */
+    html{
+      overflow-x: hidden;
+    }
+    .first-screen {
+      height: 278px;
+      width: 100%;
+    }
+    .p{
+      height:278px;
+      width:195px;
+      margin-right:2px;
+      background: url('../images/p1.svg');
+    }
+    .p:hover{
+    background: url('../images/p-4.svg');
+    height:278px;
+    width:195px;
+    }
+    .o{
+      height:278px;
+      width:195px;
+      margin-right:2px;
+      background: url('../images/o1.svg');
+
+    }
+    .o:hover{
+    background: url('../images/o-4.svg');
+    height:278px;
+    width:195px;
+    }
+    .s{
+      height:278px;
+      width:195px;
+      margin-right:2px;
+      background: url('../images/s1.svg');
+    }
+    .s:hover{
+    background: url('../images/s-4.svg');
+    height:278px;
+    width:195px;
+    }
+    .l{
+      height:278px;
+      width:195px;
+      margin-right:2px;
+      background: url('../images/l1.svg');
+    }
+    .l:hover{
+    background: url('../images/l-4.svg');
+    height:278px;
+    width:195px;
+    }
+    .u{
+      height:278px;
+      width:195px;
+      background: url('../images/u1.svg');
+    }
+    .u:hover{
+    background: url('../images/u-4.svg');
+    height:278px;
+    width:195px;
+    }
+    .second-screen {
+      height: 278px;
+      margin-left:-8px;
+      margin-top:8px;
+
+    }
+    .sh{
+      height:278px;
+      width:195px;
+      margin-right:2px;
+      background: url('../images/sh1.svg');
+    }
+    .sh:hover{
+    background: url('../images/sh-4.svg');
+    width:195px;
+    height: 278px;
+    }
+    .a{
+      width:195px;
+      height: 278px;
+      margin-right:2px;
+      background: url('../images/a1.svg');
+
+
+    }
+    .a:hover{
+    background: url('../images/a-4.svg');
+    width:195px;
+    height: 278px;
+    }
+    .i{
+      width:195px;
+      height: 278px;
+      margin-right:2px;
+      background: url('../images/i1.svg');
+    }
+    .t{
+      width:195px;
+      height: 278px;
+      margin-right:2px;
+      background: url('../images/t1.svg');
+      background-repeat:no-repeat;
+      display: inline-block;
+    }
+    .t:hover{
+    background: url('../images/t-4.svg');
+    width:195px;
+    height: 278px;
+    background-size: contain;
+    background-repeat:no-repeat;
+    animation: moving 1s 1 ease-in-out;
+    }
+    .e{
+      width:195px;
+      height: 278px;
+      margin-right:2px;
+      background: url('../images/e1.svg');
+      background-repeat:no-repeat;
+      display: inline-block;
+    }
+    .e:hover{
+    background: url('../images/e-4.svg');
+    background-size: contain;
+    width:195px;
+    height: 278px;
+    background-repeat:no-repeat;
+    animation: moving 1s 1 ease-in-out;
+    }
+    .fourth-screen{
+      width: 100%;
+      height: 278px;
+      margin-top: -10px;
+      overflow-x: hidden;
+      margin-top:19px;
+    }
+    .anim1 {
+      width: 2162px;
+      height: 278px;
+      display: flex;
+      align-items: center;
+      background-image: url('../images/zal2.svg');
+      background-repeat:no-repeat;
+      background-position: center;
+      animation: inst 4.8s infinite linear;}
+      .sixth-screen{
+        width:100%;
+        height:500px;
+      }
+      .svet{
+        height: 260px;
+        width: 816px;
+        margin-left: 78px;
+        margin-right: auto;
+      }
+      .back{
+        height:500px;
+      }
+      .tma{
+        left:110px;
+        top: 1599px;
+      }
+      .uzhas{
+        left: 318px;
+        top: 1665px;
+      }
+      .strah{
+        left: 515px;
+        top: 1743px;
+      }
+      .svet1{
+        left: 715px;
+        top: 1599px;
+      }
+      .shum{
+        width: 570px;
+        height:265px;
+        left:448px;
+      }
+      .seventh-screen{
+        height:454px;
+      }
+      .block11{
+        height: 0px;
+        width: 11px;
+      }
+      .block12{
+        height: 0px;
+        width: 0px;
+      }
+      .block13{
+        height: 0px;
+        width: 0px;
+      }
+      .block14{
+        height: 0px;
+        width: 0px;
+      }
+      .block15{
+        height: 0px;
+        width: 0px;
+      }
+      .block6{
+    height: 300px;
+    width: 110px;
+  }
+    .block7{
+    height: 300px;
+    width: 110px;
+  }
+    .block8{
+    height: 340px;
+    width: 110px;
+  }
+    .block9{
+    height: 300px;
+    width: 110px;
+  }
+   .block10{
+    height: 300px;
+    width: 110px;
+  }
+  .shelest{
+  top: 2096px;
+  }
+  .shopot{
+    left:323px;
+    top:2194px;
+  }
+  .shoroh{
+    top:2151px;
+  }
+  .bah{
+  width: 660.24px;
+  height: 293.95px;
+  left: 176.06px;
+  }
+  .logo{
+    width: 0px;
+    height: 0px;
+    margin-left: 831px;
+  }
+  .eight-screen{
+    height: 760px;
+      background-size: cover;
+  }
+  .hlop{
+    left:-200px;
+  }
+  .vzriv{
+    margin-left:850px;
+  }
+  .ugrozy {
+    margin-left:360px;
+  }
+  .fio{
+    height:0px;
+    width: 0px;
+    font-size: 0px;
+  }
+}
+
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  .first-screen {
+      height: 360px;
+      width: 100%;
+    }
+    .p{
+      height:177px;
+      width:125px;
+      margin-right:2px;
+      background: url('../images/p2.svg');
+    }
+    .o{
+     height:177px;
+      width:125px;
+      margin-right:2px;
+      background: url('../images/o2.svg');
+
+    }
+  .s{
+    height:177px;
+     width:125px;
+    margin-right:2px;
+    background: url('../images/s2.svg');
+  }
+  .l{
+    height:173px;
+     width:125px;
+    margin-right:2px;
+    background: url('../images/l2.svg');
+  }
+  .u{
+    height:173px;
+     width:125px;
+    background: url('../images/u2.svg');
+  }
+  .second-screen {
+    height: 168px;
+    margin-left:-8px;
+    margin-top:0px;
+
+  }
+  .sh{
+    height:168px;
+     width:125px;
+    margin-right:2px;
+    background: url('../images/sh2.svg');
+  }
+
+  .a{
+    height:168px;
+     width:125px;
+    margin-right:2px;
+    background: url('../images/a2.svg');
+
+
+  }
+  .i{
+    height:168px;
+    width:126px;
+    margin-right:2px;
+    background: url('../images/i2.svg');
+  }
+  .t{
+    width:0px;
+    height: 0px;
+  }
+
+  .e{
+    width:0px;
+    height: 0px;
+  }
+  .third-screen{
+    margin-left:-8px;
+  }
+  .fourth-screen{
+    width: 100%;
+    height: 278px;
+    margin-top: -10px;
+    overflow-x: hidden;
+    margin-top:19px;
+  }
+  .anim1 {
+    width: 2162px;
+    height: 278px;
+    display: flex;
+    align-items: center;
+    background-image: url('../images/zal2.svg');
+    background-repeat:no-repeat;
+    background-position: center;
+    animation: inst 4.8s infinite linear;}
+    .sixth-screen{
+      width:100%;
+      height:500px;
+    }
+    .svet{
+      height: 260px;
+      width: 816px;
+      margin-left: 78px;
+      margin-right: auto;
+    }
+    .back{
+      height:500px;
+    }
+    .tma{
+      left:110px;
+      top: 1599px;
+    }
+    .uzhas{
+      left: 318px;
+      top: 1665px;
+    }
+    .strah{
+      left: 515px;
+      top: 1743px;
+    }
+    .svet1{
+      left: 715px;
+      top: 1599px;
+    }
+    .shum{
+      width: 570px;
+      height:265px;
+      left:448px;
+    }
+    .seventh-screen{
+      height:454px;
+    }
+    .block11{
+      height: 0px;
+      width: 11px;
+    }
+    .block12{
+      height: 0px;
+      width: 0px;
+    }
+    .block13{
+      height: 0px;
+      width: 0px;
+    }
+    .block14{
+      height: 0px;
+      width: 0px;
+    }
+    .block15{
+      height: 0px;
+      width: 0px;
+    }
+    .block6{
+  height: 300px;
+  width: 110px;
+}
+  .block7{
+  height: 300px;
+  width: 110px;
+}
+  .block8{
+  height: 340px;
+  width: 110px;
+}
+  .block9{
+  height: 300px;
+  width: 110px;
+}
+ .block10{
+  height: 300px;
+  width: 110px;
+}
+.shelest{
+top: 2096px;
+}
+.shopot{
+  left:323px;
+  top:2194px;
+}
+.shoroh{
+  top:2151px;
+}
+.bah{
+width: 660.24px;
+height: 293.95px;
+left: 176.06px;
+}
+.logo{
+  width: 0px;
+  height: 0px;
+  margin-left: 831px;
+}
+.eight-screen{
+  height: 760px;
+    background-size: cover;
+}
+.hlop{
+  left:-200px;
+}
+.vzriv{
+  margin-left:850px;
+}
+.ugrozy {
+  margin-left:360px;
+}
+.fio{
+  height:0px;
+  width: 0px;
+  font-size: 0px;
+}
+    /* iPhone */
+}
+}
